@@ -1,0 +1,33 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['reports'] = 'Reports';
+$lang['best_sellers'] = 'Best Sellers';
+$lang['sales'] = 'Vendite';
+$lang['from'] = 'Da';
+$lang['to'] = 'A';
+$lang['sku'] = 'SKU';
+$lang['name'] = 'Nome';
+$lang['quantity'] = 'Quantità';
+$lang['date'] = 'Mese/Anno';
+$lang['january'] = 'Gennaio';
+$lang['february'] = 'Febbraio';
+$lang['march'] = 'Marzo';
+$lang['april'] = 'Aprile';
+$lang['may'] = 'Maggio';
+$lang['june'] = 'Giugno';
+$lang['july'] = 'Luglio';
+$lang['august'] = 'Agosto';
+$lang['september'] = 'Settembre';
+$lang['october'] = 'Ottobre';
+$lang['november'] = 'Novembre';
+$lang['december'] = 'Dicembre';
+$lang['get_best_sellers']		= 'Get Best Sellers';
+$lang['get_monthly_sales'] = 'Get Monthly Sales';
+$lang['coupon_discounts'] = 'Sconti Coupon';
+$lang['gift_card_discounts']	= 'Gift Card Discounts';
+$lang['products'] = 'Prodotti';
+$lang['shipping'] = 'Spedizione';
+$lang['tax'] = 'Tasse';
+$lang['grand_total'] = 'Grand Total';
+$lang['loading'] = 'Loading';

@@ -2,9 +2,9 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['media_root']						= 'Root';
-$lang['media_upload']					= 'Upload';
+$lang['media_upload']					= 'Carica';
 $lang['media_loading']					= 'Loading';
-$lang['media_rename']					= 'Rename';
+$lang['media_rename']					= 'Rinomina';
 $lang['media_warning']					= 'Warning!';
 $lang['media_warning_text']				= 'Deleting a folder will result in the deletion of all it\'s contents. Are you sure you want to perform this action?';
 $lang['media_delete_button']			= 'Yes, Delete it!';
@@ -18,4 +18,4 @@ $lang['media_folder_delete']			= 'The requested folder has been successfully del
 $lang['media_file_delete']				= 'The requested file has been successfully deleted.';
 $lang['media_file_rename']				= 'The requested file has been successfully renamed.';
 $lang['media_file_rename_error']		= 'There was an error renaming the requested file.';
-$lang['media_file_uploaded']			= 'Your file has been successfully uploaded.';
+$lang['media_file_uploaded']			= 'Il tuo file è stato caricato con successo.';
